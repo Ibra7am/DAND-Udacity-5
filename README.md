@@ -31,5 +31,5 @@ tweet_info and image_predictions can be merged with twitter_archive
 All the issues mentioned in the assessment phase were resolved programmatically. For example, the four columns on the dog stage were merged into one column, some erroneous column data types were changed to the appropriate type, some invalid data were handled such as some invalid dog ratings found in the given data and so on. Finally, cleaned data files were merged as one file to make the data ready for analysis.
 
 
-Analysis
+## Analysis
 After the data wrangling, we have ready-for-analysis data. We performed a quick analysis and elicitate some insights about it.
